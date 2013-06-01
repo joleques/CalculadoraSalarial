@@ -33,7 +33,7 @@ Quero calcular o salario liquido com base no valor hora da PJ
 #OBSERVAÇÕES
 
 
- #### TABELA PARA BASE DE CALCULO DO INSS ( Faixa salarial e Alíquota )
+ # TABELA PARA BASE DE CALCULO DO INSS ( Faixa salarial e Alíquota )
     
  - até R$ 1.174,86------------------- 8,00%  
    
